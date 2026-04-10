@@ -35,3 +35,9 @@ Módulo terraform automatizando o deploy de recursos AWS para automatização do
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines, engineering expectations, and pull request guidance for this repository.
+
+Portuguese version: [CONTRIBUTING.pt-BR.md](CONTRIBUTING.pt-BR.md)
+
+## Documentation
+
+A lightweight documentation hub is available in [docs/README.md](docs/README.md). This keeps the repository ready for future evolution into a broader documentation experience, including GitHub Pages if needed.
