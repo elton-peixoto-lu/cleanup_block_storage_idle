@@ -6,6 +6,7 @@ The current repository focus remains practical FinOps automation, especially exe
 
 ## Available Documents
 
+- [Documentation Landing Page](./index.html)
 - [Contributing Guide (English)](../CONTRIBUTING.md)
 - [Guia de Contribuicao (Portuguese)](../CONTRIBUTING.pt-BR.md)
 
